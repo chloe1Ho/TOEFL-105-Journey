@@ -1,0 +1,7 @@
+# Keep personal or large media files out of the public learning log.
+*.mp3
+*.m4a
+*.wav
+*.mp4
+.DS_Store
+Thumbs.db
